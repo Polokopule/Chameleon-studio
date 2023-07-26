@@ -7,10 +7,7 @@ Css Cards with different designs and amazing colours
 <h1>How to use it</h1>
 use this car tags to your cards 
 
-
-<code><pre>
 ```css
   .c-skrew{
   }
   ```
-</pre></code>
