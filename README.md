@@ -5,4 +5,8 @@ Css Cards with different designs and amazing colours
 <li>Offers fast way to make card designs</li>
 <li>Save time</li>
 <h1>How to use it</h1>
-<code>var</code>
+use this car tags to your cards 
+<code><pre>
+  .c-skrew{
+  }
+</pre></code>
