@@ -6,8 +6,10 @@ Css Cards with different designs and amazing colours
 <li>Save time</li>
 <h1>How to use it</h1>
 use this car tags to your cards 
-```css
+
+
 <code><pre>
+```css
   .c-skrew{
   }
   ```
